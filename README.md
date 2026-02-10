@@ -13,7 +13,7 @@
 ✍️ &nbsp;In my free time, I pursue mobile develop and play videogames.\
 ✉️ &nbsp;You can shoot me an email at jarango82@unilasallista.edu.co! I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" align="right" width="300px"/>
 
 ### 🛠 &nbsp;Tech Stack
 
