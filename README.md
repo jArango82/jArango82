@@ -1,13 +1,49 @@
-## Hi there 👋
 
-# 💫 Sobre mi:
-¡Saludos desde Colombia! 👋 Soy un joven entusiasta de la programación con 20 años de energía y pasión por el desarrollo de software. Actualmente, estoy persiguiendo mi título universitario mientras me sumerjo en el emocionante mundo de la tecnología.<br><br>Mi enfoque es simple pero ambicioso: aprender, crecer y destacar. Estoy constantemente buscando oportunidades para desafiarme a mí mismo y ampliar mis habilidades, ya sea a través de proyectos personales, colaboraciones en equipo o cursos adicionales.<br><br>Mi espíritu competitivo y mi determinación me impulsan a sobresalir en cada proyecto en el que me involucro. Estoy aquí para dejar mi huella, para demostrar que la juventud y la ambición pueden superar cualquier obstáculo.<br><br>Me emociona la idea de colaborar en proyectos innovadores y trabajar con mentes brillantes de todo el mundo. Estoy listo para enfrentar nuevos desafíos y contribuir con mi entusiasmo y dedicación a cada tarea que se me presente.<br><br>¡Vamos a construir el futuro juntos! 🌟
+<img width="2880" height="1200" alt="Juan Arango" src="https://github.com/user-attachments/assets/6c18108d-e542-4058-927d-3dcc0d0b5ea2" />
 
+<h2>👋 Hey there! I'm Juan</h2>
 
-# 💻 Lenguajes:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
----
-[![](https://visitcount.itsvg.in/api?id=jArango82&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👨🏻‍💻 &nbsp;About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying Informatic engineering at Unilasallista.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design and mobile develop.\
+✍️ &nbsp;In my free time, I pursue mobile develop and play videogames.\
+✉️ &nbsp;You can shoot me an email at jarango82@unilasallista.edu.co! I'll try to respond as soon as I can.
+
+<img alt="Night Coding" src="https://i.pinimg.com/originals/4f/d0/c0/4fd0c049c173c9beb5a0101a84deb6f9.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jArango82&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jArango82&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.evolvedgo.com"><img src="https://img.shields.io/badge/-evolvedgo.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:jarango82@unilasallista.edu.co"><img src="https://img.shields.io/badge/-jarango82@unilasallista.edu.co-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/evolvedgo"><img src="https://img.shields.io/badge/-@evolvedgo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
+
+-----
